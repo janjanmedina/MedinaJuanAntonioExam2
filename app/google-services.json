@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "943982564480",
+    "firebase_url": "https://fir-4itf-888da.firebaseio.com",
+    "project_id": "fir-4itf-888da",
+    "storage_bucket": "fir-4itf-888da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943982564480:android:f9394ba09152fe93",
+        "android_client_info": {
+          "package_name": "com.juanantonio.medina.medinajuanantonioexam2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943982564480-2rd0ckkvs960i5dg3p8hcfr218cuuctf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.juanantonio.medina.medinajuanantonioexam2",
+            "certificate_hash": "06d6f8e75a845b3511a2269adf6e71af50229eea"
+          }
+        },
+        {
+          "client_id": "943982564480-17jh4mesgbrr3mhogbo8bkrqoq1ejm7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA0_qPHcPMyKZn1mg4CYsfem21oRA5RKo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943982564480-17jh4mesgbrr3mhogbo8bkrqoq1ejm7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943982564480:android:9b93b0549fae0259",
+        "android_client_info": {
+          "package_name": "com.medina.falcutila.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943982564480-6t2p0b3buq3b9h3qhg03dct22trrulf8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medina.falcutila.firebase",
+            "certificate_hash": "06d6f8e75a845b3511a2269adf6e71af50229eea"
+          }
+        },
+        {
+          "client_id": "943982564480-17jh4mesgbrr3mhogbo8bkrqoq1ejm7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA0_qPHcPMyKZn1mg4CYsfem21oRA5RKo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943982564480-17jh4mesgbrr3mhogbo8bkrqoq1ejm7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
